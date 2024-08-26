@@ -1,3 +1,4 @@
+:: This is test script
 md Folder_1
 md Folder_2
 md Folder_3
